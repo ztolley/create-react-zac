@@ -1,0 +1,24 @@
+{
+  "name": "create-react-zac",
+  "version": "0.1.0",
+  "description": "Create React App using Zacs template",
+  "main": "src/main.js",
+  "bin": {
+    "create-react-zac": "src/main.js"
+  },
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "React",
+    "Typescript",
+    "Template",
+    "Vite"
+  ],
+  "author": "zac@thetolleys.com",
+  "license": "MIT",
+  "dependencies": {
+    "degit": "^2.8.4",
+    "fs-extra": "^10.0.0"
+  }
+}
